@@ -1,7 +1,7 @@
 
 # react-native-relative-time
 Gets the seconds since the OS started which can't be tampered with by the user.
-
+Based on the [following Gist](https://gist.github.com/stecman/71a5cead43eeef8fbc4c54eb97fe5ebd).
 
 ## Getting started
 
